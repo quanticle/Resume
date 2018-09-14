@@ -1,7 +1,11 @@
 \documentclass[letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
 \usepackage{palatino}
 \usepackage[margin=0.5in]{geometry}
 \usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
 %%Define compact list environment
 \newenvironment{resume-list}
 {\begin{itemize}
@@ -9,13 +13,17 @@
  \setlength{\parskip}{0pt}}
 {\end{itemize}}
 
+\pagestyle{fancy}
+\fancyhf{}
+\cfoot{Page \thepage \hspace{1pt} of \pageref{LastPage}}
+
 \begin{document}
 \noindent{\LARGE Rohit Patnaik}\\
 {\small quanticle@quanticle.net}\\
 {\small Github: \url{http://github.com/quanticle}}\\
 \section*{Professional Experience}
 \noindent Software Engineer at {\bfseries Terbium Labs}\dotfill November 2017 to present\\
-Bellevue, WA (remote)
+Plymouth, MN (remote)
 \begin{resume-list}
 \item Worked on crawler infrastructure using Python on AWS Lambda to automate data fetches from darkweb sites
 \item Developed scheduling APIs to enable greater flexibility in data fetches
