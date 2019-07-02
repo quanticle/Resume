@@ -1,0 +1,64 @@
+Work Experience:
+
+Company: Gravie Inc.
+Job Title: Senior Software Engineer
+Dates: January 2019 - June 2019
+Location: Minneapolis, MN
+Summary:
+* Helped port legacy Groovy/Grails application to Clojure/Clojurescript
+* Designed and built front-end UI components with Clojurescript/React
+* Gained experience with the Re-frame Clojurescript front-end framework
+
+Company: Terbium Labs
+Job Title: Software Engineer
+Dates: November 2017 - November 2018
+Location: Baltimore MA (remote)
+Summary: 
+* Worked on crawler infrastructure using Python on AWS Lambda to automate data fetches from darkweb sites
+* Developed scheduling APIs to enable greater flexibility in data fetches
+* Developed Firefox extension to enable data scientists to automatically load authentication data for darkweb sites
+* Gained experience collaborating in a fully remote working environment
+
+Company: Microsoft
+Job Title: SDE 2
+Dates: April 2014 - August 2017
+Location: Redmond WA
+Summary:
+VSTS Compliance Team:
+* Developed reusable UI components using React and Typescript
+* Developed extensibility API for Visual Studio Team Services compliance management tool
+* Helped migrate front-end architecture from Knockout to React
+* Gained experience with Azure DocumentDB NoSQL data store 
+* Delivered software using the Scrum Software Development methodology and and helped streamline planning process
+* Gained experience with C#, ASP.Net MVC, Javascript and Typescript
+
+VSTS Service Insights
+* Simplified and reorganized business intelligence dashboards using D3 for charts
+* Added support for multiple data-centers and scale-units to business intelligence dashboards
+* Set up continuous deployment to reduce operational workload
+* Wrote map/reduce jobs using the COSMOS framework to compute site-wide historical metrics for Visual Studio Team Services
+* Gained experience with Microsoft SQL Server data warehouse and analysis tools
+
+Company: Amazon
+Job Title: Software Development Engineer
+Dates: August 2012 - January 2014
+Location: Seattle, WA
+Summary:
+* Identified slow pages and components and implemented performance optimizations
+* Implemented profile-guided and link-time optimizations for site-wide performance improvements
+* Gained experience with Mason templates, Perl programming and C++
+* Delivered code using the Kanban software development methodology
+
+Company: Intradyn
+Job Title: Senior Software Developer
+Dates: May 2011 - August 2012
+Location: Eagan, MN
+Summary:
+* Built distributed search infrastructure using Erlang, Clojure and Python on Linux
+* Rebuilt search UI using jQuery UI plugins
+* Used Apache Lucene to perform full-text searching and indexing
+* Set up deployment and release management procedures using custom Python scripts and Puppet
+* Took responsibility for managing software releases and deployment of updates
+
+Company: Syncada
+Job Title: Associate Software Engineer
