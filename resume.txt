@@ -1,5 +1,33 @@
 Work Experience:
 
+Company: NextEra Analytics
+Job Title: Senior Software Engineer
+Dates: January 2021 - Present
+Location: St. Paul, MN
+Summary:
+* Used Leaflet.js to visualize GIS data on interactive maps
+* Developed microservices in Python, TypeScript and Kotlin to enable the visualization of GIS model data
+* Deployed microservices to AWS Lambda using Terraform
+* Gained experience using Vue.js and TypeScript to develop single-page applications to view GIS model data
+
+Company: Optum Health
+Job Title: Senior Software Engineer (Contract)
+Dates: May 2020 - January 2021
+Location: Eden Prairie, MN
+Summary:
+* Refactored common Javascript/React header and footer components for greater performance and maintainability
+* Created common React UI components to enforce a consistent look and feel across disparate portals while allowing for custom functionality
+* Updated messaging app to use OAuth for common authentication
+
+Company: Best Buy
+Job Title: Senior Software Engineer (Contract)
+Dates: June 2019 - April 2020
+Location: Richfield, MN
+Summary:
+* Created mobile customer support chat plugin for Best Buy Android and iOS apps using React Native
+* Consolidated legacy Backbone chat applications into a single, consolidated React chat application
+* Gained experience with NodeJS, Express, React and React Native
+
 Company: Gravie Inc.
 Job Title: Senior Software Engineer
 Dates: January 2019 - June 2019
