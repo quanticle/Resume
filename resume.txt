@@ -1,8 +1,17 @@
 Work Experience:
 
+Company: Independent Software Contractor
+Job Title: Software Engineer
+Dates: February 2022 - Present
+Location: Plymouth, MN
+Summary:
+* Implemented e-commerce features for local small businesses
+* Created custom photo gallery software for Wordpress
+* Gained experience with Wordpress, PHP, and Vue.js to enable attractive product pages and photo galleries
+
 Company: NextEra Analytics
 Job Title: Senior Software Engineer
-Dates: January 2021 - Present
+Dates: January 2021 - February 2022
 Location: St. Paul, MN
 Summary:
 * Used Leaflet.js to visualize GIS data on interactive maps
@@ -57,7 +66,6 @@ VSTS Compliance Team:
 * Developed extensibility API for Visual Studio Team Services compliance management tool
 * Helped migrate front-end architecture from Knockout to React
 * Gained experience with Azure DocumentDB NoSQL data store 
-* Delivered software using the Scrum Software Development methodology and and helped streamline planning process
 * Gained experience with C#, ASP.Net MVC, Javascript and Typescript
 
 VSTS Service Insights
@@ -75,7 +83,6 @@ Summary:
 * Identified slow pages and components and implemented performance optimizations
 * Implemented profile-guided and link-time optimizations for site-wide performance improvements
 * Gained experience with Mason templates, Perl programming and C++
-* Delivered code using the Kanban software development methodology
 
 Company: Intradyn
 Job Title: Senior Software Developer
@@ -85,8 +92,43 @@ Summary:
 * Built distributed search infrastructure using Erlang, Clojure and Python on Linux
 * Rebuilt search UI using jQuery UI plugins
 * Used Apache Lucene to perform full-text searching and indexing
-* Set up deployment and release management procedures using custom Python scripts and Puppet
-* Took responsibility for managing software releases and deployment of updates
 
 Company: Syncada
 Job Title: Associate Software Engineer
+Dates: June 2010 - May 2011
+Location: Minneapolis, MN
+Summary:
+* Developed ASP.Net AJAX application to manage resource files for localization
+* Rewrote internationalization code to have greater performance and flexibility
+* Gained experience with C\#, ASP.Net and Javascript
+
+Company: Open Access Technology International
+Job Title: Junior Software Engineer
+Dates: May 2007 - January 2009
+Location: Plymouth, MN
+Summary:
+* Built common UI components using Microsoft Silverlight
+* Implemented testing framework using nUnit
+* Gained experience with C\#, Silverlight and WCF Web Services
+
+Company: Parametric Technology Corporation
+Job Title: Software Engineer (Intern)
+Dates: May 2007 - January 2009
+Location: Arden Hills, MN
+Summary: 
+* Updated jUnit based test framework to match current product API
+* Automated UI tests with Selenium test framework
+* Prototyped UIs with Google Web Toolkit
+* Gained experience with Java, J2EE, and the Tomcat application server
+
+Company: University of Minnesota
+Job Title: Web Developer
+Dates: September 2004 - January 2005
+Location: Minneapolis, MN
+Summary
+* Wrote CGI/Perl web application to help researchers manage grant applications
+* Helped write Classic ASP web application to help researchers manage biological survey data
+* Redesigned CSS to increase user friendliness while still maintaining compliance with W3C standards
+
+
+Education: B.Sc. in Computer Science\dotfill University of Minnesota (Twin Cities) 2009
